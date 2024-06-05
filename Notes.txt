@@ -1,0 +1,22 @@
+container
+row 
+	col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6
+
+Bootstrap
+
+xs,s,m,l,xl,xxl
+
+xs:(exclusively for mobile devices)    	col-
+s: 	col-sm-
+m: 	col-md-
+l:	col-lg-
+xl:	col-xl-
+xxl: 	col-xxl-
+
+(First main topic)
+Grid:
+----
+will divide the (screen)UI(of mobile,pc etc) into 12 parts vertically.
+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCf4vo6nDHx+rkaolvfgLKmK+COx5xAqku8hQDkUVrAVEynfiJzLNYRj/FSGNrTOtb6xC22wS9NM+XEDG2IdHUcRU3+sTxLK9jQKSO0VRDDGpY7cLtZCAPAlSrPhlF30+gAVaV1KNVG1COU9YA72M6H5ku7aoN1CpU6cf7IgQ2RxN2ioCQDFAXL5pIl6he9Gg+2gB+HM6g/MxnToiiapj0/oDZzpc1PTC+wZWFcMCt6r6Sq56Wk9DqPNm/rPfUwJ+knZwfklA82BhLUFT67fvDR3XYWXt6wfJ2R8k1tR5v/6QW9YqXnupSBnxK+i181RwG/uZKYKq3Xc5HTq4xeWRHKxqNL+jC278M2SHT4KlLVrfPYNwkB1BBN1e/71WSkfafSNGO6hPc6LUaA53lfIqRwP+TFTqcJ5ofbInSlH32wJL0ctxLZwikEBG/7hGxeqe6CPiYnEpsgzjExMSeWHxHx+ar9FO2wPc0BEciTn/rp+qfjomkewxZeYrioIHLnOs8B07XQEpFIZlJFxfRNnF4Up9uOZ21Ds6tmQlUqyfxhQNIFv324ui6CCx/gRaQVA+/wQ0kbBI9UljI90YU0NMBFQH8Dmx7xmt1oML6g/31d+atplZSR4cjpeiKbtL/x5hNLfHlkftZMALJjtgkypGn5f+X9aw2nCjI/nR9Nr32oUQ== justinshajuk@gmail.com
