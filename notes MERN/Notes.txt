@@ -1,0 +1,19 @@
+container
+row 
+	col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6
+
+Bootstrap
+
+xs,s,m,l,xl,xxl
+
+xs:(exclusively for mobile devices)    	col-
+s: 	col-sm-
+m: 	col-md-
+l:	col-lg-
+xl:	col-xl-
+xxl: 	col-xxl-
+
+(First main topic)
+Grid:
+----
+will divide the (screen)UI(of mobile,pc etc) into 12 parts vertically.
